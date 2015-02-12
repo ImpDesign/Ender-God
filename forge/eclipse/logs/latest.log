@@ -1,23 +1,58 @@
-[17:26:31] [Client thread/INFO]: Setting user: Player165
-[17:26:37] [Client thread/INFO]: LWJGL Version: 2.9.1
-[17:26:43] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Example Mod
-[17:26:45] [Sound Library Loader/INFO]: Starting up SoundSystem...
-[17:26:45] [Thread-6/INFO]: Initializing LWJGL OpenAL
-[17:26:45] [Thread-6/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
-[17:26:49] [Client thread/INFO]: Created: 512x512 textures-atlas
-[17:26:51] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Example Mod
-[17:26:51] [Sound Library Loader/INFO]: Starting up SoundSystem...
-[17:26:54] [Thread-6/INFO]: OpenAL initialized.
-[17:26:54] [Thread-8/INFO]: Initializing LWJGL OpenAL
-[17:26:54] [Thread-8/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
-[17:26:56] [Client thread/INFO]: Created: 512x512 textures-atlas
-[17:27:33] [Sound Library Loader/WARN]: ERROR MESSAGE:
-[17:27:33] [Sound Library Loader/INFO]: SoundSystem did not load after 30 seconds.
-[17:27:33] [Sound Library Loader/INFO]: Starting up SoundSystem...
-[17:27:33] [Thread-11/INFO]: Switching to No Sound
-[17:27:33] [Thread-11/INFO]: (Silent Mode)
-[17:27:33] [Sound Library Loader/INFO]: Sound engine started
-[17:27:34] [Sound Library Loader/INFO]: Sound engine started
-[17:29:25] [Client thread/INFO]: Stopping!
-[17:29:25] [Client thread/INFO]: SoundSystem shutting down...
-[17:29:25] [Client thread/WARN]: Author: Paul Lamb, www.paulscode.com
+[10:51:41] [Client thread/INFO]: Setting user: Player667
+[10:51:45] [Client thread/INFO]: LWJGL Version: 2.9.1
+[10:51:51] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:EnderGods
+[10:51:53] [Sound Library Loader/INFO]: Starting up SoundSystem...
+[10:51:53] [Thread-7/INFO]: Initializing LWJGL OpenAL
+[10:51:53] [Thread-7/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
+[10:51:57] [Client thread/INFO]: Created: 512x512 textures-atlas
+[10:51:58] [Thread-7/INFO]: OpenAL initialized.
+[10:51:58] [Sound Library Loader/INFO]: Sound engine started
+[10:51:59] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:EnderGods
+[10:51:59] [Client thread/INFO]: SoundSystem shutting down...
+[10:51:59] [Client thread/WARN]: Author: Paul Lamb, www.paulscode.com
+[10:51:59] [Sound Library Loader/INFO]: Starting up SoundSystem...
+[10:51:59] [Thread-9/INFO]: Initializing LWJGL OpenAL
+[10:51:59] [Thread-9/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
+[10:52:00] [Thread-9/INFO]: OpenAL initialized.
+[10:52:00] [Sound Library Loader/INFO]: Sound engine started
+[10:52:02] [Client thread/INFO]: Created: 512x512 textures-atlas
+[10:52:14] [Server thread/INFO]: Starting integrated minecraft server version 1.8
+[10:52:14] [Server thread/INFO]: Generating keypair
+[10:52:14] [Server thread/INFO]: Converting map!
+[10:52:14] [Server thread/INFO]: Scanning folders...
+[10:52:14] [Server thread/INFO]: Total conversion count is 0
+[10:52:15] [Server thread/INFO]: Preparing start region for level 0
+[10:52:16] [Server thread/INFO]: Preparing spawn area: 3%
+[10:52:17] [Server thread/INFO]: Preparing spawn area: 5%
+[10:52:18] [Server thread/INFO]: Preparing spawn area: 7%
+[10:52:19] [Server thread/INFO]: Preparing spawn area: 10%
+[10:52:20] [Server thread/INFO]: Preparing spawn area: 16%
+[10:52:22] [Server thread/INFO]: Preparing spawn area: 20%
+[10:52:23] [Server thread/INFO]: Preparing spawn area: 29%
+[10:52:24] [Server thread/INFO]: Preparing spawn area: 38%
+[10:52:25] [Server thread/INFO]: Preparing spawn area: 47%
+[10:52:26] [Server thread/INFO]: Preparing spawn area: 55%
+[10:52:27] [Server thread/INFO]: Preparing spawn area: 64%
+[10:52:28] [Server thread/INFO]: Preparing spawn area: 76%
+[10:52:29] [Server thread/INFO]: Preparing spawn area: 87%
+[10:52:30] [Server thread/INFO]: Preparing spawn area: 96%
+[10:52:30] [Server thread/INFO]: Changing view distance to 12, from 10
+[10:52:31] [Server thread/INFO]: Player667[local:E:f2c4845e] logged in with entity id 421 at (170.5, 64.0, 239.5)
+[10:52:31] [Server thread/INFO]: Player667 joined the game
+[10:52:37] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 5503ms behind, skipping 110 tick(s)
+[10:52:38] [Server thread/INFO]: Player667 has just earned the achievement [Taking Inventory]
+[10:52:38] [Client thread/INFO]: [CHAT] Player667 has just earned the achievement [Taking Inventory]
+[10:52:52] [Server thread/INFO]: Saving and pausing game...
+[10:52:52] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
+[10:52:53] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
+[10:52:53] [Server thread/INFO]: Saving chunks for level 'New World'/The End
+[10:52:53] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3256ms behind, skipping 65 tick(s)
+[10:52:58] [Server thread/INFO]: Stopping server
+[10:52:58] [Server thread/INFO]: Saving players
+[10:52:58] [Server thread/INFO]: Saving worlds
+[10:52:58] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
+[10:52:58] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
+[10:52:58] [Server thread/INFO]: Saving chunks for level 'New World'/The End
+[10:53:05] [Client thread/INFO]: Stopping!
+[10:53:05] [Client thread/INFO]: SoundSystem shutting down...
+[10:53:05] [Client thread/WARN]: Author: Paul Lamb, www.paulscode.com
